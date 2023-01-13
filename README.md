@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Xiaonan
-- 👀 I’m interested in Deep Learning
-- 🌱 I’m currently learning Pytorch
-- 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me kaohermione@gamil.com
-
+- 💞️ I'm a fan of Python,SQL, Excel, Tableau, and Power BI
+- 🌱 I’m currently a Master student of Data Analytics and Statistics|WUSTL 22Fall
+- 👁️ I want to be a Data Analyst
