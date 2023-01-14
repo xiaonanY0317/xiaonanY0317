@@ -2,3 +2,4 @@
 - 💞️ I'm a fan of Python,SQL, Excel, Tableau, and Power BI
 - 🌱 I’m currently a Master student of Data Analytics and Statistics|WUSTL 22Fall
 - 👁️ I want to be a Data Analyst
+- 👩‍💻 You can view more about me here: https://carrd.co/dashboard/9990167358487474/edit
