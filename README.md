@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Xiaonan
-- 💞️ I'm a fan of Python,SQL, Excel, Tableau, and Power BI
+- 💞️ I'm a fan of Python, SQL, Excel, Tableau, and Power BI
 - 🌱 I’m currently a Master student of Data Analytics and Statistics|WUSTL 22Fall
 - 👁️ I want to be a Data Engineer
 - 👩‍💻 You can view more about me here: https://xiaonanyang.carrd.co
