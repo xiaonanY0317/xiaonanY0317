@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Xiaonan
 - 💞️ I'm a fan of Python, SQL, Excel, Tableau, and Power BI
-- 🌱 I’m currently a Master student of Data Analytics and Statistics|WUSTL 22Fall
-- 👁️ I want to be a Data Engineer
+- 🌱 Looking for my first full-time job|WashU 24' Graduate
+- 👁️ I want to be a Data Analyst
