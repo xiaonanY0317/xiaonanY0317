@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Xiaonan
-- 💞️ I'm a fan of Python, SQL, Excel, Tableau, and Power BI
-- 🌱 Looking for my first full-time job|WashU 24' Graduate
-- 👁️ I want to be a Data Analyst
+- 💞️ I'm a fan of Data
+- 🌱 I am a Data Scientist
